@@ -1,0 +1,29 @@
+.footer {
+  width: 100%;
+  background: rgba(20, 20, 20, 0.9);
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  backdrop-filter: blur(10px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 3rem;
+}
+  
+  .footer-logos {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+  }
+  
+  .footer-logos img {
+    height: 70px;
+  }
+  
+.OrgFooter{
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 1rem;
+}  

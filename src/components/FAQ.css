@@ -29,7 +29,7 @@
   
   .faq-item.open {
     background-color: #fff;
-    border-color: #4a90e2;
+    border-color: #f6c80f;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.05);
   }
   
@@ -51,7 +51,7 @@
   }
   
   .faq-button.open {
-    color: #4a90e2;
+    color: #ecbd01;
   }
   
   .faq-icon {
@@ -64,7 +64,7 @@
   
   .faq-icon.open {
     transform: rotate(90deg);
-    fill: #4a90e2;
+    fill: #f6c80f;
   }
   
   .faq-answer {
