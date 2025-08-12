@@ -30,7 +30,7 @@ const questions = [
     answer: "Sim, é obrigatório todos apresentarem o seu bilhete individual à entrada. Pode ser adquirido no site de forma gratuita",
   },
   {
-    question: "Como funcionam os bilhetes normais/exclusivos para FA/FSS para a BA6?",
+    question: "Como funcionam os bilhetes exclusivos para FA/FSS para a BA6?",
     answer: (
       <ul style={{ paddingLeft: '1.2rem', marginTop: 0 }}>
         <li>Os bilhetes exclusivos para FA/FSS tem uma classificação exclusiva [para além da geral] destinada apenas a estes ramos das Forças Armadas e FSS. Para tal devem utilizar o link exclusivo para FSS e Militares</li>
