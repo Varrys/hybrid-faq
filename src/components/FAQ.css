@@ -6,6 +6,9 @@
     padding: 0 1.5rem;
     background-color: #f7f9fc;
     min-height: 100vh;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 30px;
   }
   
   .faq-title {
@@ -35,7 +38,7 @@
   
   .faq-button {
     width: 100%;
-    padding: 1.75rem 2rem;
+    padding: 1.25rem 2rem;
     background: none;
     border: none;
     display: flex;
@@ -74,5 +77,6 @@
     color: #444;
     border-top: 1px solid #eee;
     background-color: #fefefe;
+    text-align: left;
   }
   
