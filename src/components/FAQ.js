@@ -30,11 +30,11 @@ const questions = [
     answer: "Sim, é obrigatório todos apresentarem o seu bilhete individual à entrada. Pode ser adquirido no site de forma gratuita",
   },
   {
-    question: "Como funcionam os bilhetes normais/exclusivos para FA/FSS?",
+    question: "Como funcionam os bilhetes normais/exclusivos para FA/FSS para a BA6?",
     answer: (
       <ul style={{ paddingLeft: '1.2rem', marginTop: 0 }}>
         <li>Os bilhetes exclusivos para FA/FSS tem uma classificação exclusiva [para além da geral] destinada apenas a estes ramos das Forças Armadas e FSS. Para tal devem utilizar o link exclusivo para FSS e Militares</li>
-        <li><a href="https://www.tickettailor.com/events/hybridday/1729086" target="_blank" rel="noopener noreferrer">Link FA/FSS</a></li>
+        <li><a href="https://www.tickettailor.com/events/hybridday/1729086" target="_blank" rel="noopener noreferrer">Link excluvivo FA/FSS</a></li>
         <li>No caso de ser uma dupla ou relay, todos os elementos da equipa tem de pertencer às FSS ou Forças Armadas, de outra forma devem fazer a inscrição no link destinado aos civis.</li>
         <li><a href="https://www.tickettailor.com/events/hybridday/1809883" target="_blank" rel="noopener noreferrer">Link atletas gerais</a></li>
       </ul>
